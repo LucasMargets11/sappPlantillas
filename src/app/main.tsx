@@ -11,7 +11,6 @@ import { ThemeProvider } from '../components/Theme/ThemeProvider'
 import { defaultThemeTokens } from '../components/Theme/tokens'
 
 async function bootstrap() {
-    // @ts-expect-error vite env typing not declared yet (can add vite-env.d.ts later)
     if (import.meta.env && import.meta.env.DEV) {
         try {
             const { worker } = await import('../mocks/browser')
