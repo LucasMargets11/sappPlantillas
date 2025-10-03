@@ -1,0 +1,2 @@
+/* mockServiceWorker (placeholder) */
+self.addEventListener('install',()=>self.skipWaiting());self.addEventListener('activate',()=>self.clients.claim());self.addEventListener('message',()=>{});self.addEventListener('fetch',()=>{});

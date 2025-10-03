@@ -1,0 +1,10 @@
+{
+  "header": [
+    { "label": "Inicio", "url": "/" },
+    { "label": "Tienda", "url": "/shop" }
+  ],
+  "footer": [
+    { "label": "Contacto", "url": "/contact" },
+    { "label": "Privacidad", "url": "/privacy" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "home",
+  "blocks": [
+    { "id": "hero-1", "type": "hero", "title": "Bienvenido a Aurora", "subtitle": "Inspiración fresca", "image": "/media/hero1.jpg" },
+    { "id": "grid-1", "type": "product-grid", "title": "Destacados", "limit": 8 },
+    { "id": "banner-1", "type": "banner", "text": "Envío gratis desde $50", "image": "/media/banner1.jpg" },
+    { "id": "newsletter-1", "type": "newsletter", "title": "Suscríbete", "subtitle": "Promos y novedades" }
+  ]
+}

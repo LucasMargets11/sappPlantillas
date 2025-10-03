@@ -1,0 +1,17 @@
+[
+  { "id": "p1", "title": "Producto 1", "sku": "SKU1", "price": 19.99, "images": ["/media/p1.jpg"] },
+  { "id": "p2", "title": "Producto 2", "sku": "SKU2", "price": 24.50, "images": ["/media/p2.jpg"] },
+  { "id": "p3", "title": "Producto 3", "sku": "SKU3", "price": 12.00, "images": ["/media/p3.jpg"] },
+  { "id": "p4", "title": "Producto 4", "sku": "SKU4", "price": 32.00, "images": ["/media/p4.jpg"] },
+  { "id": "p5", "title": "Producto 5", "sku": "SKU5", "price": 9.99, "images": ["/media/p5.jpg"] },
+  { "id": "p6", "title": "Producto 6", "sku": "SKU6", "price": 44.00, "images": ["/media/p6.jpg"] },
+  { "id": "p7", "title": "Producto 7", "sku": "SKU7", "price": 15.49, "images": ["/media/p7.jpg"] },
+  { "id": "p8", "title": "Producto 8", "sku": "SKU8", "price": 28.00, "images": ["/media/p8.jpg"] },
+  { "id": "p9", "title": "Producto 9", "sku": "SKU9", "price": 17.99, "images": ["/media/p9.jpg"] },
+  { "id": "p10", "title": "Producto 10", "sku": "SKU10", "price": 21.00, "images": ["/media/p10.jpg"] },
+  { "id": "p11", "title": "Producto 11", "sku": "SKU11", "price": 13.75, "images": ["/media/p11.jpg"] },
+  { "id": "p12", "title": "Producto 12", "sku": "SKU12", "price": 16.40, "images": ["/media/p12.jpg"] },
+  { "id": "p13", "title": "Producto 13", "sku": "SKU13", "price": 11.30, "images": ["/media/p13.jpg"] },
+  { "id": "p14", "title": "Producto 14", "sku": "SKU14", "price": 55.00, "images": ["/media/p14.jpg"] },
+  { "id": "p15", "title": "Producto 15", "sku": "SKU15", "price": 7.90, "images": ["/media/p15.jpg"] }
+]

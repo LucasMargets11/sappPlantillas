@@ -1,0 +1,10 @@
+{
+  "slug": "home",
+  "blocks": [
+    { "id": "hero-1", "type": "hero", "title": "Energía Pulso", "subtitle": "Ritmo y color", "image": "/media/hero2.jpg" },
+    { "id": "grid-1", "type": "collection-grid", "title": "Colecciones", "limit": 6 },
+    { "id": "usp-1", "type": "usp-bar", "items": ["Envío 24h", "Soporte 24/7", "Pagos seguros"] },
+    { "id": "banner-1", "type": "banner", "text": "Hasta 30% off", "image": "/media/banner2.jpg" },
+    { "id": "newsletter-1", "type": "newsletter", "title": "Mantente al día", "subtitle": "Nuevos lanzamientos" }
+  ]
+}

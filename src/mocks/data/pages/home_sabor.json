@@ -1,0 +1,11 @@
+{
+  "slug": "home",
+  "blocks": [
+    { "id": "hero-1", "type": "hero", "title": "Sabores que inspiran", "subtitle": "Descubre la colección", "image": "/media/hero3.jpg" },
+    { "id": "grid-1", "type": "product-grid", "title": "Top Ventas", "limit": 6 },
+    { "id": "story-1", "type": "story", "title": "Nuestra historia", "content": "Texto breve..." },
+    { "id": "logo-wall-1", "type": "logo-wall", "logos": ["/media/logo1.jpg", "/media/logo2.jpg"] },
+    { "id": "testimonial-1", "type": "testimonials", "title": "Clientes felices", "items": [{ "quote": "Excelente", "author": "Ana" }] },
+    { "id": "newsletter-1", "type": "newsletter", "title": "Recibe recetas", "subtitle": "Ideas semanales" }
+  ]
+}
